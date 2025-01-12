@@ -112,15 +112,17 @@ margin: 10px auto;
     border: 1px solid red;
     width:280px;
     height: 300px;
-    background-color: bisque;
+    background-color: rgb(241, 187, 121);
+    color:black ;
     padding: 15px;
     border-radius: 10px;
 }
 .card2{
     border: 1px solid red;
+    
     width:280px;
     height: 300px;
-    background-color: rgb(156, 240, 177);
+    background-color: rgb(90, 236, 126);
     padding: 15px;
     border-radius: 10px;
 }
@@ -128,9 +130,14 @@ margin: 10px auto;
     border: 1px solid red;
     width:280px;
     height: 300px;
-    background-color: rgba(122, 184, 223, 0.373);
+    background-color: rgba(4, 66, 104, 0.373);
     padding: 15px;
     border-radius: 10px;
+}
+
+.card3 p {
+    color: black;
+ 
 }
 
 .underline{
