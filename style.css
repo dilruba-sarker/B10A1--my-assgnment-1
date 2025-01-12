@@ -94,8 +94,8 @@ margin: 0 auto;
     font-family: Azeret Mono;
 }
 
-.inspiration p{
-    color: rgb(61, 61, 61);
+#inspiration-p{
+    color: rgb(0, 0, 0);
 font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
